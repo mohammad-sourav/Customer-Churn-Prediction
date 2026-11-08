@@ -1,6 +1,6 @@
 # Predicting Customer Churn and Designing Data-Driven Retention Strategies Using Machine Learning
 
-## 1. Project Overview & Motivation
+## 1. Project Overview
 
 Customer attrition poses a critical operational and financial threat in subscription-based ecosystems. This project establishes an end-to-end machine learning and behavioral analytics framework designed to predict customer churn with high predictive fidelity and translate these empirical findings into actionable, data-driven retention strategies. By synthesizing predictive modeling with consumer analytics, the repository provides a reproducible pipeline from raw customer telemetry to strategic business intervention.
 
