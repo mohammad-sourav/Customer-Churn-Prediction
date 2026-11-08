@@ -1,0 +1,21 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Trained models and serialized files
+*.pkl
+*.joblib
+models/
+
+# Environment and IDE files
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+.DS_Store
